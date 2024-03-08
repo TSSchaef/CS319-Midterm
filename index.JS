@@ -11,12 +11,10 @@ function loadChallenges(Data) {
         console.log(challenge);
         let div = document.createElement("div");
         div.innerHTML = ` 
-        <div class=" w-100 my-md-3 ps-md-3">
+        <div class="my-md-3 ps-md-3" style="display: inline-block; float:none;">
             <div class="text-bg-dark me-md-3 text-center overflow-hidden">
-                <div class="img-container" >
-                    <img src = ${challenge.url} alt=${challenge.alt} width="400">
-                </div>    
-                <div class="my-3 py-3">
+                <img src = ${challenge.url} alt=${challenge.alt} width="500" height="300">
+                <div class="my-3 py-3" style="width: 500px; height: 200px">
                     <h2 class="display-5">${challenge.title}</h2>
                     <p class="lead">${challenge.description}</p>
                 </div>
