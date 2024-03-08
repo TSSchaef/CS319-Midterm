@@ -6,7 +6,7 @@ fetch("./index.JSON")
     
 function loadChallenges(Data) {
     let mainContainer = document.getElementById("container");
-    mainContainer.innerHTML = ` `;
+    mainContainer.innerHTML = ``;
     for (challenge of Data.challenges){
         console.log(challenge);
         let div = document.createElement("div");
