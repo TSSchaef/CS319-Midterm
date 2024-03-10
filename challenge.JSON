@@ -1,0 +1,52 @@
+{
+    "challengeName": "Grace Challenge",
+    "description": "Complete 30 Clean and Jerk reps as fast as possible.",
+    "cleanTechniqueSteps": [
+        {
+            "step": 1,
+            "description": "Begin with the barbell on the floor, standing with feet hip-width apart and toes slightly angled outwards. Ensure even weight distribution across your feet. Grip the barbell with a clean grip. Keep back arched, shoulders back, elbows outwards, head forward."
+        },
+        {
+            "step": 2,
+            "description": "With hips slightly higher than knees, push through your legs and stand up, maintaining the back angle until the bar reaches mid-thigh.",
+            "image": "cj1.jpg"
+        },
+        {
+            "step": 3,
+            "description": "Continue pushing aggressively against the floor, extending hips and knees explosively while keeping the barbell close to your body."
+        },
+        {
+            "step": 4,
+            "description": "When fully extended, jump and slide feet out to squat stance. Simultaneously, shrug shoulders and bring elbows high and wide to pull the barbell up."
+        },
+        {
+            "step": 5,
+            "description": "Quickly bring elbows to the front of the body and elevate them as you descend into a full squat, creating a clean-rack position.",
+            "image": "cj2.jpg"
+        },
+        {
+            "step": 6,
+            "description": "Allow downward momentum and barbell weight to guide you into a full squat, then rebound upwards to standing position."
+        }
+    ],
+    "jerkTechniqueSteps": [
+        {
+            "step": 1,
+            "description": "Adjust the barbell on your shoulder to preferred jerk rack position. Take a deep breath, brace core, and shift weight to heels."
+        },
+        {
+            "step": 2,
+            "description": "With a vertical torso, bend knees and drive legs against the ground to create vertical momentum for the barbell."
+        },
+        {
+            "step": 3,
+            "description": "After full extension, push beneath the barbell with arms and jump feet into split receiving position, catching the barbell overhead with fully locked arms.",
+            "image": "cj3.jpg"
+        },
+        {
+            "step": 4,
+            "description": "Stabilize the barbell overhead and recover to a fully standing position, remembering to recover with the front foot first.",
+            "image": "cj4.jpg"
+        }
+    ]
+}
